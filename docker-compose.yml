@@ -5,3 +5,7 @@ services:
     build:
       context: .
       dockerfile: ./Dockerfile.net9
+  app-ubuntu:
+    build:
+      context: .
+      dockerfile: ./Dockerfile.ubuntu
