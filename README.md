@@ -1,4 +1,6 @@
-Use `docker-compose up --build app` command to run the example.
+Use `docker-compose up --build app` command to run the example on Debian 12 using .NET 8
+
+or `docker-compose up --build app-net9` command to run the example on Debian 12 using .NET 9
 
 Example code:
 ```c#
