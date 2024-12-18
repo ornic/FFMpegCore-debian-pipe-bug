@@ -1,5 +1,7 @@
 Use `docker-compose up --build app` command to run the example on Debian 12 using .NET 8
 
+or `docker-compose up --build app-net6` command to run the example on Debian 12 using .NET 6
+
 or `docker-compose up --build app-net9` command to run the example on Debian 12 using .NET 9
 
 or `docker-compose up --build app-ubuntu` command to run the example on Ubuntu 24.04 LTS using .NET 8

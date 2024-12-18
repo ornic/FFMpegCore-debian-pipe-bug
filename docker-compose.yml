@@ -1,6 +1,10 @@
 services:
   app:
     build: .
+  app-net6:
+    build:
+      context: .
+      dockerfile: ./Dockerfile.net6
   app-net9:
     build:
       context: .
