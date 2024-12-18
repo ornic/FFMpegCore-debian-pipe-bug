@@ -29,4 +29,4 @@ The first AnalyseAsync (using stream) produce error:
 }
 ```
 
-The second one (using filename) working without errors.
+The second one (using filename) working without errors - as it should.
